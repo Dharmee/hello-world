@@ -1,2 +1,5 @@
 # hello-world
-a respiratory for storing resources
+
+Hi users,
+
+I basically made changes here to revert and upgrade some resources
